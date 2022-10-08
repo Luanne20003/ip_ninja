@@ -1,1 +1,1 @@
-Sever:0.tcp.ap.ngrok.io:10394:0:0
+Sever:0.tcp.ap.ngrok.io:10530:0:0
